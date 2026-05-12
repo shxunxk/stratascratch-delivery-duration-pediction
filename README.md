@@ -1,4 +1,6 @@
-# StrataScrath
+# StrataScrath - Delivery Duration Prediction
+
+Link - https://platform.stratascratch.com/data-projects/delivery-duration-prediction
 
 This repo contains a small ML workflow (in a Jupyter notebook) for **predicting delivery time** from historical order data.
 
